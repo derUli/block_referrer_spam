@@ -1,0 +1,9 @@
+{
+	"version": "2018.1.20",
+	"source": "extend",
+	"embed": false,
+	"controllers": {
+		"BlockReferrerSpam": "BlockReferrerSpam.php"
+	},
+	"main_class": "BlockReferrerSpam"
+}

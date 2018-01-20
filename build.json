@@ -1,0 +1,10 @@
+{
+	"id": "block_referrer_spam",
+	"version": "2018.1.20",
+	"description": "Block referrer spam based on a static word list",
+	"categories": [
+		"security",
+		"spam"
+	],
+	"compatible_from": "2018.2"
+}
