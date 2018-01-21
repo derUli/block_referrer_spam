@@ -1,2 +1,17 @@
 # block_referrer_spam
-Block Referrer Spam Module for UliCMS
+
+Block referrer spam based on a static word list
+
+## Compatiblity
+
+* UliCMS 2018.2 or later
+
+## What is referrer spam?
+
+Referrer spam (also known as referral spam, log spam or referrer bombing) is a kind of spamdexing (spamming aimed at search engines). The technique involves making repeated web site requests using a fake referrer URL to the site the spammer wishes to advertise. Sites that publish their access logs, including referer statistics, will then inadvertently link back to the spammer's site. These links will be indexed by search engines as they crawl the access logs, improving the spammer's search engine ranking. Except for polluting their statistics, the technique does not harm the affected sites.
+
+[Referrer spam - Wikipedia](https://en.wikipedia.org/wiki/Referrer_spam)
+
+## Functionality
+
+Coming Soon...
