@@ -15,3 +15,6 @@ Referrer spam (also known as referral spam, log spam or referrer bombing) is a k
 ## Functionality
 
 This module blocks spam referrer requests using a static list of common referrer spam words.
+
+If you receive spam referrer's that are not blocked by the module please **do not** change the list.txt file.
+Send some sample spam referrer URLs to support(at)ulicms.de or open a new Issue at GitHub.
