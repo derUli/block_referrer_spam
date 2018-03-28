@@ -1,6 +1,6 @@
 {
 	"id": "block_referrer_spam",
-	"version": "2018.2.12",
+	"version": "2018.3.28",
 	"description": "Block referrer spam based on a static word list",
 	"categories": [
 		"security",

@@ -18,6 +18,7 @@ class BlockReferrerSpam extends Controller {
 		$list = explode ( "\n", $list );
 		$list = array_map ( "trim", $list );
 		$list = array_filter ( $list, "strlen" );
+		$list = array_filter ( $list, "strtolower" );
 		sort ( $list );
 		return $list;
 	}
