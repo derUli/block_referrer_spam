@@ -1,6 +1,6 @@
 <?php
 
-class BlockReferrerTest extends PHPUnit_Framework_TestCase
+class BlockReferrerTest extends \PHPUnit\Framework\TestCase
 {
     
     public function testSpam()
