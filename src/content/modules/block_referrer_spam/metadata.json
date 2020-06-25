@@ -1,9 +1,9 @@
 {
-	"version": "2019.1.22",
-	"source": "extend",
-	"embed": false,
-	"controllers": {
-		"BlockReferrerSpam": "BlockReferrerSpam.php"
-	},
-	"main_class": "BlockReferrerSpam"
+    "version": "3.11.0",
+    "source": "extend",
+    "embed": false,
+    "controllers": {
+        "BlockReferrerSpam": "BlockReferrerSpam.php"
+    },
+    "main_class": "BlockReferrerSpam"
 }

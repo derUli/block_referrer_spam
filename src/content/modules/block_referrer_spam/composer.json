@@ -1,0 +1,5 @@
+{
+    "require": {
+        "matomo/referrer-spam-blacklist": "^3.11"
+    }
+}
